@@ -1,0 +1,43 @@
+{
+  "status": "SUCCESS",
+  "source": "BestTime.app Empirical Data Stream",
+  "busiest_days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "weekly_metrics": {
+    "monday": {
+      "avg_traffic_pct": 70,
+      "peak_traffic_pct": 94
+    },
+    "tuesday": {
+      "avg_traffic_pct": 63,
+      "peak_traffic_pct": 87
+    },
+    "wednesday": {
+      "avg_traffic_pct": 72,
+      "peak_traffic_pct": 86
+    },
+    "thursday": {
+      "avg_traffic_pct": 78,
+      "peak_traffic_pct": 100
+    },
+    "friday": {
+      "avg_traffic_pct": 65,
+      "peak_traffic_pct": 80
+    },
+    "saturday": {
+      "avg_traffic_pct": 70,
+      "peak_traffic_pct": 91
+    },
+    "sunday": {
+      "avg_traffic_pct": 71,
+      "peak_traffic_pct": 82
+    }
+  }
+}

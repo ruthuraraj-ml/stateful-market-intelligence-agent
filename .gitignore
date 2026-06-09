@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Streamlit operational configurations
+.streamlit/
+
+# Local database data (Crucial: do not upload your local ChromaDB records)
+chroma_data/
+*.db
+
+# Private environment keys (Never upload your GEMINI_API_KEY!)
+.env
+
+# Corporate report generation artifacts
+*.pdf
+*.xlsx
